@@ -111,10 +111,10 @@ async def bot_start(event):
                         \nيمكنك التواصل مع ي من خلال هذا البوت"
         buttons = [
             (
-                Button.url("تنصيب تـيـبثون ❤️", "https://t.meTepthon"),
+                Button.url(" قناتي❤️", "https://t.me/Al_Nahari"),
                 Button.url(
                     "مساعدة ❓",
-                    "https://t.me/PPF22",
+                    "https://t.me/M_Ak_Nahari",
                 ),
             )
         ]
@@ -231,7 +231,7 @@ async def pause_streamroz(event):
 ألاستخدام: اكتب الامر في الدردشة فقط
 
 ملاحظة : يجب عليك ان تكون مفعل فار الميوزك اولا  الشرح  ~ اضغط هنا
-قناة سورس تيبثون @Tepthon""",
+قناة سورس تيبثون @Al_Nahari""",
         buttons=[
             [Button.inline("رجوع", data="MSHKLMSIC")],
         ],
@@ -248,7 +248,7 @@ async def play_vide(event):
 ألاستخدام: اكتب الامر مع رابط الفيديو من اليوتيوب
 
 ملاحظة : يجب عليك ان تكون مفعل فار الميوزك اولا  الشرح  ~ اضغط هنا
-قناة سورس تيبثون @Tepthon""",
+قناة سورس تيبثون @Al_Nahari""",
         buttons=[
             [Button.inline("رجوع", data="MSHKLMSIC")],
         ],
@@ -265,7 +265,7 @@ async def play_vide(event):
 ألاستخدام: اكتب الامر مع رابط الفيديو من اليوتيوب
 
 ملاحظة : يجب عليك ان تكون مفعل فار الميوزك اولا  الشرح  ~ اضغط هنا
-قناة سورس تيبثون @Tepthon""",
+قناة سورس تيبثون @Al_Nahari""",
         buttons=[
             [Button.inline("رجوع", data="MSHKLMSIC")],
         ],
@@ -282,7 +282,7 @@ async def get_playlistroz(event):
 ألاستخدام: اكتب الامر فقط في الدردشة 
 
 ملاحظة : يجب عليك ان تكون مفعل فار الميوزك اولا  الشرح  ~ اضغط هنا
-قناة سورس تيبثون @Tepthon""",
+قناة سورس تيبثون @Al_Nahari""",
         buttons=[
             [Button.inline("رجوع", data="MSHKLMSIC")],
         ],
@@ -299,7 +299,7 @@ async def leaveVoicechat(event):
 ألاستخدام: اكتب الامر فقط في الدردشة 
 
 ملاحظة : يجب عليك ان تكون مفعل فار الميوزك اولا  الشرح  ~ اضغط هنا
-قناة سورس تيبثون @Tepthon""",
+قناة سورس تيبثون @Al_Nahari""",
         buttons=[
             [Button.inline("رجوع", data="MSHKLMSIC")],
         ],
@@ -333,7 +333,7 @@ async def title_v(event):
 ألاستخدام: اكتب الامر مع العنوان الجديد و ارسله في الدردشة
 
 ملاحظة : يجب عليك ان تكون مفعل فار الميوزك اولا  الشرح  ~ اضغط هنا
-قناة سورس تيبثون @Tepthon""",
+قناة سورس تيبثون @Al_Nahari""",
         buttons=[
             [Button.inline("رجوع", data="MSHKLMSIC")],
         ],
@@ -350,7 +350,7 @@ async def info_vc(event):
 ألاستخدام: اكتب الامر في المجموعة فقط ويجب ان تكون المكالمة شغالة
 
 ملاحظة : يجب عليك ان تكون مفعل فار الميوزك اولا  الشرح  ~ اضغط هنا
-قناة سورس تيبثون @Tepthon""",
+قناة سورس تيبثون @Al_Nahari""",
         buttons=[
             [Button.inline("رجوع", data="MSHKLMSIC")],
         ],
@@ -367,7 +367,7 @@ async def varssett(event):
 ألاستخدام: اكتب الامر بالرد على المستخدم الذي تريد دعوته للمكالمة
 
 ملاحظة : يجب عليك ان تكون مفعل فار الميوزك اولا  الشرح  ~ اضغط هنا
-قناة سورس تيبثون @Tepthon""",
+قناة سورس تيبثون @Al_Nahari""",
         buttons=[
             [Button.inline("رجوع", data="MSHKLMSIC")],
         ],
@@ -384,7 +384,7 @@ async def varssett(event):
 ألاستخدام: فقط ارسل الامر بدون اي اضافات
 
 ملاحظة : يجب عليك ان تكون مفعل فار الميوزك اولا  الشرح  ~ اضغط هنا
-قناة سورس تيبثون @Tepthon""",
+قناة سورس تيبثون @Al_Nahari""",
         buttons=[
             [Button.inline("رجوع", data="MSHKLMSIC")],
         ],
@@ -401,7 +401,7 @@ async def varssett(event):
 ألاستخدام: فقط ارسل الامر بدون اي اضافات
 
 ملاحظة : يجب عليك ان تكون مفعل فار الميوزك اولا  الشرح  ~ اضغط هنا
-قناة سورس تيبثون @Tepthon""",
+قناة سورس تيبثون @Al_Nahari""",
         buttons=[
             [Button.inline("رجوع", data="MSHKLMSIC")],
         ],
